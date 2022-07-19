@@ -16,3 +16,7 @@ if __name__ == '__main__':
     print(minus(10,3))
     print(mul(3,3))
     print(name('Mike'))
+
+a=555
+b=777
+print(a+b)
